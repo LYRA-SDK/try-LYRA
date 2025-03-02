@@ -6,7 +6,7 @@ Fitness studios collect sensitive health data but lack tools to protect it. **60
 
 ---
 
-## 🚀 Try LYRA (No Code Required)  
+## 🚀 Try LYRA 
 Experience LYRA’s privacy-first AI in action:  
 1. **[Live Demo](https://lyra-demo.streamlit.app)**  
    - Upload sample fitness data (CSV)  
