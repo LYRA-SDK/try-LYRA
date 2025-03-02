@@ -1,4 +1,4 @@
-## 🛡️ Why LYRA?  
+## Why LYRA?  
 Fitness studios collect sensitive health data but lack tools to protect it. **60% of fitness apps leak data** (FTC 2024), risking $10M GDPR fines and member trust. LYRA solves this with:  
 - **Differential Privacy** – Add mathematical noise to protect identities.  
 - **Federated Learning** – Train AI across devices without centralizing data.  
@@ -6,7 +6,7 @@ Fitness studios collect sensitive health data but lack tools to protect it. **60
 
 ---
 
-## 🚀 Try LYRA 
+## Try LYRA 
 Experience LYRA’s privacy-first AI in action:  
 1. **[Live Demo](https://lyra-demo.streamlit.app)**  
    - Upload sample fitness data (CSV)  
