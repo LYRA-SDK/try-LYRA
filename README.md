@@ -14,5 +14,5 @@ Experience LYRA’s privacy-first AI in action:
    - Tested with [sample_data.csv](./sample_data.csv)  
 
 2. **Technical Deep Dive**  
-   - [Video Walkthrough](https://youtu.be/your-demo-video) (4 mins)  
-   - [White Paper](./LYRA_Technical_Overview.pdf) (Privacy architecture PDF) 
+   - [Video Walkthrough](https://youtu.be/your-demo-video) (2 mins)  
+
